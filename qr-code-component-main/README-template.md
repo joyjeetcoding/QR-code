@@ -14,8 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joyjeetcoding/QR-code/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/joyjeetcoding/QR-code/tree/main/qr-code-component-main)
+- Live Site URL: [Live site URL here](https://joyjeetcoding.github.io/QR-Code-link.github.io/)
 
 
 ### Built with
